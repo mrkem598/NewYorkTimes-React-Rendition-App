@@ -4,7 +4,7 @@
     The app has a React components, that work with helper functions, and utilize the 
     React mounting lifecycle to query and display articles based on user searches.
     
-     I have used Node, Express and MongoDB so that the users can save articles to read
+    I have used Node, Express and MongoDB so that the users can save articles to read
     later. The app includes three React Components like Main, Search and Saved where 
     I can contains the container div, queries the NYT API for articles and displays 
     the Saved Articles respectively.
